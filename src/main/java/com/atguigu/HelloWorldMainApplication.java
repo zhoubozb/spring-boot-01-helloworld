@@ -17,5 +17,6 @@ public class HelloWorldMainApplication {
         SpringApplication.run(HelloWorldMainApplication.class,args);
         System.out.println("dev zb");
         System.out.println("dev zb 1906");
+        System.out.println("dev zb1");
     }
 }
