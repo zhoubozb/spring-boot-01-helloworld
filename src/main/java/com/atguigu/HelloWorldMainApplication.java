@@ -22,5 +22,6 @@ public class HelloWorldMainApplication {
         System.out.println("dev zb1");
         System.out.println("dev zb1");
         System.out.println("dev zb1 idea");
+        System.out.println("test zb1 idea");
     }
 }
